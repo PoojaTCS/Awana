@@ -20,6 +20,7 @@ public class month1 {
 	Select s=new Select(month);
 	Thread.sleep(4000);
 	s.selectByVisibleText("march");
+		System.out.println("Hello pooja");
 	
 
 	}
